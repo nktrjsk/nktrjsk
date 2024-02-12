@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="100%" height="100%">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                @import url('https://fonts.googleapis.com/css2?family=EB+Garamond);
+                * {
+                    font-family: 'EB Garamond', serif;
+                }
+                h1 {
+                    color: white;
+                }
+            </style>
+            <h1>Nikita Rjaško</h1>
+        </div>
+    </foreignObject>
+</svg>
