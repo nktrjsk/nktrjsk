@@ -17,56 +17,65 @@ I've recently got into the world of free software, that's also the reason why yo
 
 - Game development
 
-# Programming technologies I use
+# Technologies I use
 
-## General purpose
+## Programming
 
-<div>
-    <img src="logos/python.svg" title="Python" height="60px">
-    <img src="logos/c.svg" title="C" height="60px">
-    <img src="logos/c-sharp.svg" title="C#" height="60px">
-</div>
-
-## Web development
+### General purpose
 
 <div>
-    <img src="logos/html5.svg" title="HTML5" height="60px">
-    <img src="logos/css3.svg" title="CSS3" height="60px">
-    <img src="logos/js.svg" title="JavaScript" height="60px">
-    <img src="logos/php.svg" title="PHP" height="60px">
-    <img src="logos/hugo.svg" title="Hugo" height="60px">
+    <img src="logos/python.svg" title="Python" height="50px">
+    <img src="logos/c.svg" title="C" height="50px">
+    <img src="logos/c-sharp.svg" title="C#" height="50px">
 </div>
 
-## Game development
-<div>
-    <img src="logos/unity.svg" title="Unity" height="60px">
-</div>
-
-## Databases
+### Web development
 
 <div>
-    <img src="logos/mysql.svg" title="MySQL" height="60px">
+    <img src="logos/html5.svg" title="HTML5" height="50px">
+    <img src="logos/css3.svg" title="CSS3" height="50px">
+    <img src="logos/js.svg" title="JavaScript" height="50px">
+    <img src="logos/php.svg" title="PHP" height="50px">
+    <img src="logos/hugo.svg" title="Hugo" height="50px">
 </div>
 
-## Other
+### Game development
+<div>
+    <img src="logos/unity.svg" title="Unity" height="50px">
+</div>
+
+### Databases
 
 <div>
-    <img src="logos/git.svg" title="Git" height="60px">
+    <img src="logos/mysql.svg" title="MySQL" height="50px">
 </div>
 
-# Other technologies I use
+### Other
 
 <div>
-    <img src="logos/affinity.svg" title="Affinity" height="60px">
+    <img src="logos/git.svg" title="Git" height="50px">
 </div>
 
-# Technologies I use in my personal life
+## Graphics
 
-<p float="left">
-    <img src="logos/obsidian.svg" title="Obsidian" height="60px">
-    <img src="logos/archlinux.svg" title="Arch Linux" height="60px">
-</p>
+<div>
+    <img src="logos/affinity.svg" title="Affinity" height="50px">
+</div>
+
+## Note-taking
+
+<div>
+    <img src="logos/obsidian.svg" title="Obsidian" height="50px">
+</div>
+
+## Operating systems
+
+<div>
+    <img src="logos/archlinux.svg" title="Arch Linux" height="50px">
+    <img src="logos/windows11.svg" title="Windows 11" height="50px">
+</div>
 
 # Credits
 
 Icons from https://github.com/simple-icons/simple-icons
+<img src="logos/simpleicons.svg" title="Windows 11" height="30px">
