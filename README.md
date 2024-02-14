@@ -4,7 +4,7 @@
 
 Hi, I'm Nikita and I'm from 🇨🇿.
 
-I love programming, but also an open-source and security enthusiast, a gamer, and many more.
+I love programming, but I'm also an open-source and security enthusiast, a gamer, and many more.
 
 I've recently got into the world of free software, that's also the reason why you're reading this.
 
