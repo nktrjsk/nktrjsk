@@ -1,1 +1,1 @@
-I like computers
+I'm an generalist with specialization in programming, I'm interested in cybersecurity, Linux, networking, games and virtually anything else. I'm also posting to my digital garden, contributing to Czech Wikipedia and FOSS and I enjoy participating in debates. Feel free to contact me about anything.
