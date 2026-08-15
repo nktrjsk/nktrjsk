@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="220" viewBox="0 0 840 220" role="img" aria-label="Nikita Rjaško — local-first, no accounts, works offline, yours to keep">
+  <style>
+    :root {
+      --bg: #f6f8fa;
+      --border: #d0d7de;
+      --text: #1f2328;
+      --muted: #57606a;
+      --accent: #f7931a;
+      --prompt: #1a7f37;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0d1117;
+        --border: #30363d;
+        --text: #e6edf3;
+        --muted: #8b949e;
+        --accent: #f7931a;
+        --prompt: #3fb950;
+      }
+    }
+    text {
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+      font-size: 16px;
+      fill: var(--text);
+    }
+    .prompt { fill: var(--prompt); }
+    .muted  { fill: var(--muted); }
+    .accent { fill: var(--accent); font-weight: 600; }
+    .name   { font-size: 28px; font-weight: 700; }
+    .frame  { fill: var(--bg); stroke: var(--border); }
+    .dot-r  { fill: #ff5f57; }
+    .dot-y  { fill: #febc2e; }
+    .dot-g  { fill: #28c840; }
+    .cursor { fill: var(--accent); }
+  </style>
+
+  <rect class="frame" x="1.5" y="1.5" width="837" height="217" rx="10"/>
+  <line x1="1.5" y1="38" x2="838.5" y2="38" stroke="var(--border)"/>
+  <circle class="dot-r" cx="24" cy="20" r="6"/>
+  <circle class="dot-y" cx="44" cy="20" r="6"/>
+  <circle class="dot-g" cx="64" cy="20" r="6"/>
+  <text class="muted" x="420" y="25" text-anchor="middle" font-size="13">~/nktrjsk — zsh</text>
+
+  <text x="28" y="74"><tspan class="prompt">$</tspan> whoami</text>
+  <text class="name" x="28" y="112">Nikita Rjaško</text>
+  <text x="28" y="146">
+    <tspan class="accent">▸</tspan> local-first
+    <tspan class="accent" dx="14">▸</tspan> no accounts
+    <tspan class="accent" dx="14">▸</tspan> works offline
+    <tspan class="accent" dx="14">▸</tspan> yours to keep
+  </text>
+  <text x="28" y="184"><tspan class="prompt">$</tspan> <tspan class="muted">rm -rf the_cloud</tspan></text>
+  <rect class="cursor" x="212" y="170" width="10" height="18">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
