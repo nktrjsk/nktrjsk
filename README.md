@@ -11,7 +11,7 @@ And the third thing worth owning: **your education**. I run [Samostuduj](https:/
 ## 🧘 Local-first apps
 
 - **[vsemadeseti](https://github.com/nktrjsk/vsemadeseti)** — a calm touch-typing trainer for Czech (QWERTZ). Self-paced, positively motivating, and refuses to shame you with leaderboards. Offline-first PWA built with React 19 and [Evolu](https://evolu.dev) — no account, fully private.
-- **[flowblock](https://github.com/nktrjsk/flowblock)** — an Akiflow-inspired time-blocker rebuilt for ADHD brains. Forgives unfinished days, which is more than most calendars can say.
+- **[flowblock](https://github.com/nktrjsk/flowblock)** — an Akiflow-inspired time-blocker rebuilt for ADHD brains. Your schedule lives on your device via [Evolu](https://evolu.dev), and it forgives unfinished days — which is more than most calendars can say.
 - **[flyer-editor](https://github.com/nktrjsk/flyer-editor)** — Markdown in, print-ready A5 flyers out. Runs entirely in your browser ([Evolu](https://evolu.dev) — SQLite in the browser), syncs with a mnemonic phrase instead of a login.
 
 ## 🔧 Self-hosted tools
